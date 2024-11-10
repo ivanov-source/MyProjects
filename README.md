@@ -3,4 +3,4 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Проект для интернет магазина по продаже компьютерных игр](OnlineGameShop_Project) | Решение бизнес-задачи по увеличению продаж компьютерных игр в интернет-магазине| *pandas*, *seaborn*, *numpy*, *matplotlib*, *pyplot*, *scipy*|
-| [Проект анализа и оптимизации маркетинговой стратегии для приложения Procrastinate Pro+](Business Indicators Analysis/Business Indicators Analysis.ipynb) | Решение бизнес-задачи по увеличению продаж компьютерных игр в интернет-магазине| *pandas*, *seaborn*, *numpy*, *matplotlib*, *pyplot*, *scipy*|
+| [Проект анализа и оптимизации маркетинговой стратегии для приложения Procrastinate Pro+](https://github.com/ivanov-source/MyProjects/blob/main/Business%20Indicators%20Analysis/Business%20Indicators%20Analysis.ipynb)) | Решение бизнес-задачи по увеличению продаж компьютерных игр в интернет-магазине| *pandas*, *seaborn*, *numpy*, *matplotlib*, *pyplot*, *scipy*|
